@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Work
 description:
 image: assets/images/Zunkz1.jpg
