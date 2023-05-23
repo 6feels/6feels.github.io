@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description:
-image: assets/images/pic07.jpg
+image: assets/images/mac.jpg
 nav-menu: true
 ---
 
