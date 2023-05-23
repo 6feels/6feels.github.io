@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Projects
 layout: landing
 description:
 image: assets/images/pic07.jpg
