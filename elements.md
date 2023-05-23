@@ -18,6 +18,12 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">About Me</h2>
 <p>I am an enthusiastic and dedicated professional with valuable experience in project management and customer relations. I have always brought valuable contribution to teams through my skills in community relations, strategic thinking, leadership, and management. My key focus areas include collaborating with teams to value innovation, instilling the value of hard work, continuous self improvement, all while creating a positive work environment that positively impacts the company success and employee growth.</p>
+		
+	</div>	
+</Section>
+
+<script src="https://gist.github.com/6feels/f5e76f9327752654e84fd721b913b31a.js"></script>
+		
 <!--		
 <div class="row">
 	<div class="6u 12u$(small)">
