@@ -31,9 +31,9 @@ nav-menu: true
 					<h3>Project Lead at Zunkz</h3>
 				</header>
 				<ul class="actions">
+					<li><a href="https://zunkz.com/" class="button">Website</a></li>
 					<li><a href="https://opensea.io/collection/zunkz" class="button">Zunkz</a></li>
 					<li><a href="https://opensea.io/collection/zunkpets" class="button">Zpets</a></li>
-					<li><a href="https://zunkz.com/" class="button">Website</a></li>
 					<li><a href="https://opensea.io/collection/zunkz" class="button">Discord</a></li>
 					<li><a href="https://www.twitter.com/zunkznfts" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/zunkznfts" class="button">Instagram</a></li>
