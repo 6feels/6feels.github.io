@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Blockhead #tweekers</h3>
 				</header>
-				<p>Blockhead #tweekers is an Ethereum NFT project that consists of 52 unque 1/1 hand drawn PFPs.</p>
+				<p>Blockhead #tweekers are an Ethereum NFT project that consists of 52 digitally drawn unique 1/1 PFPs.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>mfersOC</h3>
 				</header>
-				<p>mfersOC is an Ethereum on-chain NFT project that consists of 7,777 randomly generated mfers.</p>
+				<p>mfersOC are an Ethereum on-chain NFT project that consists of 7,777 randomly generated mfers.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
