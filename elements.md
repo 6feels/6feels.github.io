@@ -19,7 +19,7 @@ nav-menu: true
 <h2 id="content">About Me</h2>
 <pI pride myself in being a hard working professional who is always willing to go the extra mile. I am dedicated to my work and always strive to do my best no matter the situation. Being family oriented I will always make time for my loved ones, family first. It is important to me that we care about the environment and that we all do our part to help protect it. I embrace all types of technology and make an effort to learn and use new technologies that are being released. Self improvement is something we all need to focus on and I feel we should always be looking for ways to better ourself.</p>
 		<header class="major">
-			<h1>Resume</h1>
+			<h2 id="content">Resume</h2>
 		</header>
 		<script src="https://gist.github.com/6feels/69f6ff42ab7d24ab1790db2f8d466f09.js"></script>
 
