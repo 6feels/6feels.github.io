@@ -6,7 +6,7 @@ image: assets/images/Zunkz1.jpg
 nav-menu: true
 ---
 <ul class="actions">
-					<li><a href="https://opensea.io/collection/Zunkz" class="button">Zunkz</a></li> <li><a href="https://opensea.io/collection/zunkpets" class="button">ZPets</a></li> <li><a href="https://zunkz.com/" class="button">Website</a></li>
+					<li><a href="https://opensea.io/collection/Zunkz" class="button">Zunkz</a></li> <li><a href="https://opensea.io/collection/zunkpets" class="button">ZPets</a></li> <li><a href="https://zunkz.com/" class="button">Website</a></li> <li><a href="https://discord.gg/zunkz" class="button">Discord</a></li> <li><a href="https://twitter.com/ZunkzNFTs" class="button">Twitter</a></li> <li><a href="https://instagram.com/ZunkzNFTs" class="button">Instagram</a></li>
 				</ul>
 The **CryptoZunks** were released in August 2021 by Zagabond the founder of Azuki and were minted out @ .05 ETH each within 48hrs. In May 2022 Zagabond handed over the projects contracts, wallets, and keys to the community team so that he could put his focus on Azuki while the CryptoZunks community team would take over the project and focus on the CryptoZunks. After the handover was complete the community and team felt it was important to have a fresh start so the project was rebranded from CryptoZunks to the Zunkz.
 
