@@ -2,7 +2,7 @@
 layout: post
 title: Work
 description: 
-image: assets/images/pic11.jpg
+image: assets/images/Zunkz.jpg
 nav-menu: true
 ---
 
