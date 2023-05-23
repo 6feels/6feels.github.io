@@ -12,12 +12,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Charles Vanchieri</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">About Me</h2>
+<p>I am an experienced and dedicated professional with valuable experience in project management and customer success management. I have always been able bring valuable contribution through my skills in community relations, strategic thinking, and team management. My key focus areas include collaborating with teams to value innovation, instilling the value hard work, continuous improvement, while creating a positive work environment that positively impacts the company success and employee growth.</p>
+<!--		
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -27,7 +28,7 @@ nav-menu: true
 		<h3>Magna odio tempus commodo</h3>
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 	</div>
-	<!-- Break -->
+	<!-- Break 
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -44,12 +45,12 @@ nav-menu: true
 
 <hr class="major" />
 
-<!-- Elements -->
+<!-- Elements 
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-<!-- Text stuff -->
+<!-- Text stuff 
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -62,7 +63,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 
-<!-- Lists -->
+<!-- Lists 
 <h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -164,11 +165,11 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </div>
 
-<!-- Blockquote -->
+<!-- Blockquote 
 <h3>Blockquote</h3>
 <blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
 
-<!-- Table -->
+<!-- Table 
 <h3>Table</h3>
 
 <h4>Default</h4>
@@ -266,7 +267,7 @@ Finally, this is a <a href="#">link</a>.</p>
 </div>
 <div class="6u$ 12u$(medium)">
 
-<!-- Buttons -->
+<!-- Buttons 
 <h3>Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
@@ -299,7 +300,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	<li><span class="button disabled">Default</span></li>
 </ul>
 
-<!-- Form -->
+<!-- Form 
 <h3>Form</h3>
 
 <form method="post" action="#">
@@ -310,7 +311,7 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
 		</div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="12u$">
 			<div class="select-wrapper">
 				<select name="demo-category" id="demo-category">
@@ -322,7 +323,7 @@ Finally, this is a <a href="#">link</a>.</p>
 				</select>
 			</div>
 		</div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="4u 12u$(small)">
 			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
@@ -335,7 +336,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
 		</div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="6u 12u$(small)">
 			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
@@ -344,11 +345,11 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
 		</div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="12u$">
 			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="12u$">
 			<ul class="actions">
 				<li><input type="submit" value="Send Message" class="special" /></li>
@@ -358,7 +359,7 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </form>
 
-<!-- Image -->
+<!-- Image 
 <h3>Image</h3>
 
 <h4>Fit</h4>
@@ -368,11 +369,11 @@ Finally, this is a <a href="#">link</a>.</p>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
+		<!-- Break 
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
@@ -383,13 +384,13 @@ Finally, this is a <a href="#">link</a>.</p>
 <p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 <p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 
-<!-- Box -->
+<!-- Box 
 <h3>Box</h3>
 <div class="box">
 	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
 </div>
 
-<!-- Preformatted Code -->
+<!-- Preformatted Code 
 <h3>Preformatted</h3>
 <pre><code>i = 0;
 
@@ -409,3 +410,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </section>
 
 </div>
+	-->
