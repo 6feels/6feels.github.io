@@ -92,6 +92,6 @@ Zunkz are the only Punks collection available that has an official companion col
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section> -->
+</section> 
 
-</div>
+</div> -->
