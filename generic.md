@@ -30,11 +30,6 @@ nav-menu: true
 				<header class="major">
 					<h3>Zunkz</h3>
 				</header>
-				<p>A The CryptoZunks were released in August 2021 by Zagabond the founder of Azuki and were minted out @ .05 ETH each within 48hrs. In May 2022 Zagabond handed over the projects contracts, wallets, and keys to the community team so that he could put his focus on Azuki while the CryptoZunks community team would take over the project and focus on the CryptoZunks. After the handover was complete the community and team felt it was important to have a fresh start so the project was rebranded from CryptoZunks to the Zunkz.
-
-Zunkz are the 1st continuation project of the original CryptoPunks collection and the only collection to be branded by Opensea with the Inspired by Cryptopunks badge. Punks are labelled 1-10,000 while Zunkz are labelled 10,000 - 20,000 with each Zunk being unique and different from any CryptoPunks. All the original traits were used but the alternative method implemented during the generation allowed for completely different combinations of traits resulting in 10,000 unique Zunkz.
-
-Zunkz are the only Punks collection available that has an official companion collection Zpets, each Zunk has 1 free Zpet companion to claim for only the cost of the gas transaction. Zpets are randomly generated at the time of claim and will use the same ID numbers from their corresponding Zunk. Each Zpet has a 24 hr re-roll period from the time they are initially minted.</p>
 				<ul class="actions">
 					<li><a href="https://opensea.io/collection/zunkz" class="button">Zunkz</a></li>
 					<li><a href="https://opensea.io/collection/zunkpets" class="button">Zpets</a></li>
@@ -43,6 +38,12 @@ Zunkz are the only Punks collection available that has an official companion col
 					<li><a href="https://www.twitter.com/zunkznfts" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/zunkznfts" class="button">Instagram</a></li>
 				</ul>
+				
+				<p>A The CryptoZunks were released in August 2021 by Zagabond the founder of Azuki and were minted out @ .05 ETH each within 48hrs. In May 2022 Zagabond handed over the projects contracts, wallets, and keys to the community team so that he could put his focus on Azuki while the CryptoZunks community team would take over the project and focus on the CryptoZunks. After the handover was complete the community and team felt it was important to have a fresh start so the project was rebranded from CryptoZunks to the Zunkz.
+
+Zunkz are the 1st continuation project of the original CryptoPunks collection and the only collection to be branded by Opensea with the Inspired by Cryptopunks badge. Punks are labelled 1-10,000 while Zunkz are labelled 10,000 - 20,000 with each Zunk being unique and different from any CryptoPunks. All the original traits were used but the alternative method implemented during the generation allowed for completely different combinations of traits resulting in 10,000 unique Zunkz.
+
+Zunkz are the only Punks collection available that has an official companion collection Zpets, each Zunk has 1 free Zpet companion to claim for only the cost of the gas transaction. Zpets are randomly generated at the time of claim and will use the same ID numbers from their corresponding Zunk. Each Zpet has a 24 hr re-roll period from the time they are initially minted.</p>
 			</div>
 		</div>
 	</section>
