@@ -44,6 +44,7 @@ The CryptoZunks were released in August 2021 by Zagabond the founder of Azuki an
 <br>
 Zunkz are the 1st continuation project of the original CryptoPunks collection and the only collection to be branded by Opensea with the Inspired by Cryptopunks badge. Punks are labelled 1-10,000 while Zunkz are labelled 10,000 - 20,000 with each Zunk being unique and different from any CryptoPunks. All the original traits were used but the alternative method implemented during the generation allowed for completely different combinations of traits resulting in 10,000 unique Zunkz.  
 <br>
+<br>
 Zunkz are the only Punks collection available that has an official companion collection Zpets, each Zunk has 1 free Zpet companion to claim for only the cost of the gas transaction. Zpets are randomly generated at the time of claim and will use the same ID numbers from their corresponding Zunk. Each Zpet has a 24 hr re-roll period from the time they are initially minted.
 <br>
 <br>				
