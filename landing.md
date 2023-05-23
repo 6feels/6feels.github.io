@@ -10,14 +10,14 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!--<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Personal Projects</h2>
 		</header>
 		<p>Here are my personal projects.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
