@@ -6,7 +6,7 @@ image: assets/images/Zunkz1.jpg
 nav-menu: true
 ---
 <ul class="actions">
-<li><a href="https://opensea.io/collection/Zunkz" class="button">Zunkz</a></li> 
+<li><a href="https://opensea.io/collection/zunkz" class="button">Zunkz</a></li> 
 <li><a href="https://opensea.io/collection/zunkpets" class="button">ZPets</a></li> 
 <li><a href="https://zunkz.com/" class="button">Website</a></li> 
 <li><a href="https://discord.gg/zunkz" class="button">Discord</a></li> 
