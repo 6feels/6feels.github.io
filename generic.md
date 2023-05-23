@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Work
 layout: landing
 description:
-image: assets/images/mac.jpg
+image: assets/images/Zunkz2.jpg
 nav-menu: true
 ---
 
