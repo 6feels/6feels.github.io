@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">About Me</h2>
-<p>I am an experienced and dedicated professional with valuable experience in project management and customer success management. I have always been able bring valuable contribution through my skills in community relations, strategic thinking, and team management. My key focus areas include collaborating with teams to value innovation, instilling the value hard work, continuous improvement, while creating a positive work environment that positively impacts the company success and employee growth.</p>
+<p>I am an experienced and dedicated professional with valuable experience in project management and customer relations. I have always brought valuable contribution to teams through my skills in community relations, strategic thinking, leadership, and management. My key focus areas include collaborating with teams to value innovation, instilling the value of hard work, continuous self improvement, all while creating a positive work environment that positively impacts the company success and employee growth.</p>
 <!--		
 <div class="row">
 	<div class="6u 12u$(small)">
