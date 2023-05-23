@@ -17,10 +17,11 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">About Me</h2>
-<p>I am an enthusiastic and dedicated professional with valuable experience in project management and customer relations. I have always brought valuable contribution to teams through my skills in community relations, strategic thinking, leadership, and management. My key focus areas include collaborating with teams to value innovation, instilling the value of hard work, continuous self improvement, all while creating a positive work environment that positively impacts the company success and employee growth.</p>
-	
-		<script src="https://gist.github.com/6feels/f5e76f9327752654e84fd721b913b31a.js"></script>
-</Section>
+<pI pride myself in being a hard working professional who is always willing to go the extra mile. I am dedicated to my work and always strive to do my best no matter the situation. Being family oriented I will always make time for my loved ones, family first. It is important to me that we care about the environment and that we all do our part to help protect it. I embrace all types of technology and make an effort to learn and use new technologies that are being released. Self improvement is something we all need to focus on and I feel we should always be looking for ways to better ourself.</p>
+		<header class="major">
+			<h1>Resume</h1>
+		</header>
+		<script src="https://gist.github.com/6feels/69f6ff42ab7d24ab1790db2f8d466f09.js"></script>
 
 		
 <!--		
