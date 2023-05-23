@@ -5,6 +5,34 @@ description:
 image: assets/images/Zunkz1.jpg
 nav-menu: true
 ---
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Zunkz1.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Zunkz</h3>
+				</header>
+				<p>Picking up where the CryptoPunks left off making sure no one is left behind. An inclusive 10,000 PFP collection with their very own Zpets as companions.</p>
+				<ul class="actions">
+					<ul class="actions">
+          <li><a href="https://opensea.io/collection/zunkz" class="button">Zunkz</a></li> 
+          <li><a href="https://opensea.io/collection/zunkpets" class="button">ZPets</a></li> 
+          <li><a href="https://zunkz.com/" class="button">Website</a></li> 
+          <li><a href="https://discord.gg/zunkz" class="button">Discord</a></li> 
+          <li><a href="https://twitter.com/ZunkzNFTs" class="button">Twitter</a></li> 
+          <li><a href="https://instagram.com/ZunkzNFTs" class="button">Instagram</a></li>
+          </ul>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+    
 <ul class="actions">
 <li><a href="https://opensea.io/collection/zunkz" class="button">Zunkz</a></li> 
 <li><a href="https://opensea.io/collection/zunkpets" class="button">ZPets</a></li> 
