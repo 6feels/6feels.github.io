@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Music is Feels</h3>
 				</header>
-				<p>A Python program that creates high quality images using an image and ~100,000 lyrics.</p>
+				<p>A Python program that creates high quality images using a given image and ~100,000 lyrics.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
