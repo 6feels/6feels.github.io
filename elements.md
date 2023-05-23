@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: About Me
 image: assets/images/me.jpg
 nav-menu: true
 ---
