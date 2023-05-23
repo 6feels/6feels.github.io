@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>A Python program that creates high quality images using a given image and ~100,000 lyrics.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://opensea.io/collection/musicisfeels" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>Blockhead #tweekers are an Ethereum NFT project that consists of 52 digitally drawn unique 1/1 PFPs.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://opensea.io/collection/blockheadtweekers" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
