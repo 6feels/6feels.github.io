@@ -45,7 +45,7 @@ Zunkz are the 1st continuation project of the original CryptoPunks collection an
 
 Zunkz are the only Punks collection available that has an official companion collection Zpets, each Zunk has 1 free Zpet companion to claim for only the cost of the gas transaction. Zpets are randomly generated at the time of claim and will use the same ID numbers from their corresponding Zunk. Each Zpet has a 24 hr re-roll period from the time they are initially minted.</p>
 			</div>
-		
+		</section>
 	</section>
 	<!--<section>
 		<a href="generic.html" class="image">
