@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>mfersOC are an Ethereum on-chain NFT project that consists of 7,777 unique randomly generated mfers.</p>
 				<ul class="actions">
-					<li><a href="https://opensea.io/collection/mfers-oc" class="button">Collection</a></li>
+					<li><a href="https://opensea.io/collection/mfers-oc" class="button">Collection</a></li> <li><a href="https://app.indelible.xyz/mint/0x49dc7252202de42b5089ce136403555bfb27008c" class="button">Mint</a></li>
 				</ul>
 			</div>
 		</div>
