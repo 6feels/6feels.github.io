@@ -30,7 +30,12 @@ nav-menu: true
 				<header class="major">
 					<h3>Music is Feels</h3>
 				</header>
-				<p>A Python program that creates high quality images using a given image and ~100,000 lyrics.</p>
+				<p>
+				A Python program that creates high quality images using a given image and ~100,000 lyrics.  
+				<br>
+				Beautiful Soup is used to webscrape lyrics.
+				Heroku is used to launch and display the user faceing program.
+				</p>
 				<ul class="actions">
 				<li><a href="https://opensea.io/collection/musicisfeels" class="button">Collection</a></li> <li><a href="https://github.com/6feels/TextImageOverlay.git" class="button">Code</a></li>
 				</ul>
