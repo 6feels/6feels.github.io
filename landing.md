@@ -34,6 +34,7 @@ nav-menu: true
 				A Python program that creates high quality images using a given image and ~100,000 lyrics.  
 				<br>
 				Beautiful Soup is used to webscrape lyrics.
+				<br>
 				Heroku is used to launch and display the user faceing program.
 				</p>
 				<ul class="actions">
