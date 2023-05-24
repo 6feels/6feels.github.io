@@ -35,7 +35,7 @@ nav-menu: true
 				<br>
 				Beautiful Soup is used to webscrape lyrics.
 				<br>
-				Heroku is used to launch and display the user faceing program.
+				Heroku is used to launch and display the user facing program.
 				</p>
 				<ul class="actions">
 				<li><a href="https://opensea.io/collection/musicisfeels" class="button">Collection</a></li> <li><a href="https://github.com/6feels/TextImageOverlay.git" class="button">Code</a></li>
