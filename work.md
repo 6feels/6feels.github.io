@@ -48,6 +48,15 @@ Zunkz are the 1st continuation project of the original CryptoPunks collection an
 Zunkz are the only Punks collection available that has an official companion collection Zpets, each Zunk has 1 free Zpet companion to claim for only the cost of the gas transaction. Zpets are randomly generated at the time of claim and will use the same ID numbers from their corresponding Zunk. Each Zpet has a 24 hr re-roll period from the time they are initially minted.
 <br>
 <br>				
+	<header class="major">
+		<h3>Project Lead at Zunkz</h3>
+	</header>
+- Successfully managed the developments and expansion of the digital art NFT collection Zunkz on the Ethereum blockchain with a robust community of approximately 3,500 owners and daily active members across various social media platforms.
+- Supervise a team of 9 employees, focused on networking, marketing, social engagements, and technical developments to grow the project's ecosystem.
+- Effectively manage the project's treasury funds, accounting, payroll, schedules, product releases, customer relations, and all public communications.
+- Managed the development, execution, and successful launch of the new interactive website with the holders rewards program.
+- Led the development, organization, and engagement of the project's online community through various channels, including a Mirror blog, Discord, Twitter, and Instagram.
+    <br
 			</div>
 		</div>
 	</section>
