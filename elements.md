@@ -17,7 +17,8 @@ nav-menu: true
 
 <!-- Content -->
 <!--<h2 id="content">About Me</h2> -->
-I pride myself in being a hard working professional who is always willing to go the extra mile. I am dedicated to my work and always strive to do my best no matter the situation. Being family oriented I will always make time for my loved ones, family first. It is important to me that we care about the environment and that we all do our part to help protect it. I embrace all types of technology and make an effort to learn and use new technologies that are being released. Self improvement is something we all need to focus on and I feel we should always be looking for ways to better ourself. 
+My name is Charles Vanchieri and I moved to Sydney Australia from California USA at the end of 2021 with my wife and 2 children who are now 7 years old. My wife was born and raised in Sydney which has given me full working rights with an Australian Partner Visa. We love everything about Sydney and have long-term plans to stay and raise our children here in this great area.
+I have been working as a project leader for the last 2 years with a company based in the USA. Now that the family has made the decision to plant our roots in Sydney I am looking to transition to a company that is based here in Sydney.
 		<br>
 		<br>
 <h2 id="content">Resume</h2>
