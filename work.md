@@ -49,7 +49,7 @@ Zunkz are the only Punks collection available that has an official companion col
 <br>
 <br>				
 	<header class="major">
-		<h3>Project Lead at Zunkz</h3>
+		<h3>Project Leader</h3>
 	</header>
 - Successfully managed the developments and expansion of the digital art NFT collection Zunkz on the Ethereum blockchain with a robust community of approximately 3,500 owners and daily active members across various social media platforms.
 <br>
