@@ -22,8 +22,7 @@ nav-menu: true
 
 <!-- Content -->
 <!--<h2 id="content">About Me</h2> -->
-My name is Charles Vanchieri and I moved to Sydney Australia from California USA at the end of 2021 with my wife and 2 children who are now 7 years old. My wife was born and raised in Sydney which has given me full working rights with an Australian Partner Visa. We love everything about Sydney and have long-term plans to stay and raise our children here in this great area.
-I have been working as a project leader for the last 2 years with a company based in the USA. Now that the family has made the decision to plant our roots in Sydney I am looking to transition to a company that is based here in Sydney.
+My name is Charles Vanchieri, I am 38 yrs old and I  grew up in Silicon Valley California USA, I moved to Sydney Australia at the end of 2021 with my wife and 2 children who are now 7 years old. My wife was born and raised in Sydney which has given me full working rights with an Australian Partner Visa. We have had a wonderful 2 years in Sydney and have made long-term plans to stay and raise our children here in this great area.  For the last few years I have been working in project management and customer relations for companies based in the USA. Now that the family has made the decision to plant our roots in Sydney I am looking to transition to a company that is based here in Sydney.  
 		<br>
 		<br>
 <h2 id="content">Resume</h2>
