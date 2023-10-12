@@ -56,7 +56,8 @@ Zunkz are the only Punks collection available that has an official companion col
 - Effectively manage the project's treasury funds, accounting, payroll, schedules, product releases, customer relations, and all public communications.
 - Managed the development, execution, and successful launch of the new interactive website with the holders rewards program.
 - Led the development, organization, and engagement of the project's online community through various channels, including a Mirror blog, Discord, Twitter, and Instagram.
-    <br
+<br>
+<br>
 			</div>
 		</div>
 	</section>
