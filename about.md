@@ -19,7 +19,6 @@ nav-menu: true
 					<li><a href="https://www.linkedin.com/in/cvanchieri6/" class="button">LinkedIn</a></li>
 					<li><a href="https://twitter.com/CVanchieri6" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/cvanchieri6/" class="button">Instagram</a></li>
-
 				</ul>
 
 <!-- Content -->
