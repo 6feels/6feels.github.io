@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Project Lead at Zunkz</h3>
+					<h3>Zunkz</h3>
 				</header>
 				<ul class="actions">
 					<li><a href="https://zunkz.com/" class="button">Website</a></li>
