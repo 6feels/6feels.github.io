@@ -35,6 +35,8 @@ nav-menu: true
 				<br>
 				Beautiful Soup is used to webscrape lyrics.
 				<br>
+				HTML and CSS were used to overlay the text on the image.
+				<br>	
 				Heroku is used to launch and display the user facing program.
 				</p>
 				<ul class="actions">
