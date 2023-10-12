@@ -52,9 +52,13 @@ Zunkz are the only Punks collection available that has an official companion col
 		<h3>Project Lead at Zunkz</h3>
 	</header>
 - Successfully managed the developments and expansion of the digital art NFT collection Zunkz on the Ethereum blockchain with a robust community of approximately 3,500 owners and daily active members across various social media platforms.
+<br>
 - Supervise a team of 9 employees, focused on networking, marketing, social engagements, and technical developments to grow the project's ecosystem.
+<br>
 - Effectively manage the project's treasury funds, accounting, payroll, schedules, product releases, customer relations, and all public communications.
+<br>
 - Managed the development, execution, and successful launch of the new interactive website with the holders rewards program.
+<br>
 - Led the development, organization, and engagement of the project's online community through various channels, including a Mirror blog, Discord, Twitter, and Instagram.
 <br>
 <br>
