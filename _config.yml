@@ -3,7 +3,7 @@ title: Charles Vanchieri
 subtitle: Portfolio
 email: CVanchieri@Gmail.com
 description: This is all about ME.
-baseurl: #" " # the subpath of your site, e.g. /blog
+baseurl: /Portfolio
 url: CVanchieri/Portfolio
 author:
 street_address: 
