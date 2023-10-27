@@ -20,7 +20,7 @@ nav-menu: true
 					<li><a href="https://twitter.com/CVanchieri6" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/cvanchieri6/" class="button">Instagram</a></li>
 				</ul>
-
+		<img src="{% link assets/images/map.png %}" alt="" data-position="center center" />
 <!-- Content -->
 <!--<h2 id="content">About Me</h2> -->
 My name is Charles Vanchieri, I am 38 yrs old and I grew up in the Silicon Valley in California USA. I moved to Sydney Australia at the end of 2021 with my wife and 2 children and we currently live in Randwick NSW. My wife being born and raised in Sydney has given me full working rights through an Australian Partner Visa. We have had a wonderful 2 years in Sydney and have made long-term plans to stay and raise our children here in this great area.  For the last few years I have been working in project management and customer relations for companies based in the America. Now that the family has made the decision to plant our roots in Sydney I am looking to transition to a company that is based here in Sydney.  
