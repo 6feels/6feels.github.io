@@ -2,7 +2,7 @@
 title: Work
 layout: landing
 description:
-image: assets/images/Zunkz2.jpg
+image: assets/images/ZunkzSubway.png
 nav-menu: true
 ---
 
