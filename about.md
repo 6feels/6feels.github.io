@@ -14,16 +14,17 @@ nav-menu: true
 		<header class="major">
 			<h1>Charles Vanchieri</h1>
 		</header>
-		<a class="image">
-			<img src="{% link assets/images/Family.png %}" alt="" data-position="center center" />
-			</a>
-		<br>
   		<ul class="actions">
 					<li><a href="mailto:CVanchieri@Gmail.com" class="button">Email</a></li>
 					<li><a href="https://www.linkedin.com/in/cvanchieri6/" class="button">LinkedIn</a></li>
 					<li><a href="https://twitter.com/CVanchieri6" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/cvanchieri6/" class="button">Instagram</a></li>
 				</ul>
+		<br>
+		<a class="image">
+			<img src="{% link assets/images/Family.png %}" alt="" data-position="center center" />
+			</a>
+		<br>
 		<h2 id="content">Location</h2>
 		<a class="image">
 			<img src="{% link assets/images/Map.png %}" alt="" data-position="center center" />
