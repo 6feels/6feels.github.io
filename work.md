@@ -2,7 +2,7 @@
 title: Work
 layout: landing
 description:
-image: assets/images/ZunkzSubway.png
+image: assets/images/Zunkz.jpg
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/Zunkz1.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/ZunkzSkydive.png %}" alt="" data-position="center center" />
 			<img src="{% link assets/images/ZunkzSubway.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
