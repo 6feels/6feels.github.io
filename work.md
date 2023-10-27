@@ -8,18 +8,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
-
-<!-- One -->
-<!--<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Work</h2>
-		</header>
-		<p>What I do for work.</p>
-	</div>
-</section> -->
-
-<!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
