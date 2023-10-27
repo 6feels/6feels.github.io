@@ -26,8 +26,7 @@ nav-menu: true
 			</a>
 		<br>
 		<br>
-		<h2 id="content">About</h2>
-		<br>
+		<h2 id="content">Location</h2>
 		<br>
 		<a class="image">
 			<img src="{% link assets/images/Map.png %}" alt="" data-position="center center" />
