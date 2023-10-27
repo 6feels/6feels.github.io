@@ -28,7 +28,8 @@ nav-menu: true
 				Heroku is used to launch and display the user facing program.
 				</p>
 				<ul class="actions">
-				<li><a href="https://opensea.io/collection/musicisfeels" class="button">Collection</a></li> <li><a href="https://github.com/6feels/TextImageOverlay.git" class="button">Code</a></li>
+				<li><a href="https://opensea.io/collection/musicisfeels" class="button">Collection</a></li> 
+				<li><a href="https://github.com/6feels/TextImageOverlay.git" class="button">Code</a></li>
 				</ul>
 			</div>
 		</div>
@@ -68,7 +69,8 @@ nav-menu: true
 				The collection consists of 7,777 unique randomly generated PFPs.
 				</p>
 				<ul class="actions">
-					<li><a href="https://opensea.io/collection/mfers-oc" class="button">Collection</a></li> <li><a href="https://app.indelible.xyz/mint/0x49dc7252202de42b5089ce136403555bfb27008c" class="button">Mint</a></li>
+					<li><a href="https://opensea.io/collection/mfers-oc" class="button">Collection</a></li> 
+					<li><a href="https://app.indelible.xyz/mint/0x49dc7252202de42b5089ce136403555bfb27008c" class="button">Mint</a></li>
 				</ul>
 			</div>
 		</div>
