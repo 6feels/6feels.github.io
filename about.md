@@ -14,6 +14,9 @@ nav-menu: true
 		<header class="major">
 			<h1>Charles Vanchieri</h1>
 		</header>
+		<a class="image">
+			<img src="{% link assets/images/Family.png %}" alt="" data-position="center center" />
+			</a>
   		<ul class="actions">
 					<li><a href="mailto:CVanchieri@Gmail.com" class="button">Email</a></li>
 					<li><a href="https://www.linkedin.com/in/cvanchieri6/" class="button">LinkedIn</a></li>
