@@ -67,7 +67,8 @@ Zunkz are the only Punks collection available that has an official companion col
 	</section>
  	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/HealthEgo.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/HealthEgo1.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/HealthEgo2.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -76,16 +77,13 @@ Zunkz are the only Punks collection available that has an official companion col
 				</header>
 				<ul class="actions">
 					<li><a href="https://healthego.co/" class="button">Website</a></li>
-					<li><a href="https://play.google.com/store/apps/details?id=co.healthego.android&pli=1" class="button">Android Store</a></li>
+					<li><a href="https://play.google.com/store/apps/details?id=co.healthego.android&pli=1" class="button">Android</a></li>
 					<li><a href="https://www.instagram.com/healthego_co/" class="button">Instagram</a></li>
 				</ul>				
-HealEgo is a decentralized health & fitness ecosystem developed to support those that live, want, need a healthy lifestyle.
+HealthEgo is a decentralized health & fitness ecosystem developed to support those that live, want, need a healthy lifestyle.  For a healthy lifestyle we believe there are 6 foundations that need attention, strength, mobility, nutrition, movement, mindfulness, and recovery.  
 <br>
 <br>
-For a healthy lifestyle there are 6 foundations that need attention, strength, mobility, nutrition, movement, mindfulness, and recovery. 
-<br>
-<br>
-The ecosystem is a blend between Twitter and Instagram with a specific focus on health & fitness.  Our health is important and it deserves it's own sharing plaform where all the valuable health content created won't get lost amongst the massive amounts of entertainment content on these other social platforms.
+The ecosystem is a blend between Twitter, Instagram, and Facebook with a specific focus on health & fitness.  Our health is important and it deserves it's own sharing plaform where all the valuable health content created won't get lost amongst the massive amounts of entertainment content on these other social platforms.
 <br>
 <br>				
 	<header class="major">
