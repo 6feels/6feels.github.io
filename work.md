@@ -64,10 +64,7 @@ Zunkz are the only Punks collection available that has an official companion col
 <br>
 			</div>
 		</div>
- 
 	</section>
- </section>
- <section id="two" class="spotlights">
  	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/HealthEgo.jpg %}" alt="" data-position="center center" />
@@ -81,8 +78,7 @@ Zunkz are the only Punks collection available that has an official companion col
 					<li><a href="https://healthego.co/" class="button">Website</a></li>
 					<li><a href="https://play.google.com/store/apps/details?id=co.healthego.android&pli=1" class="button">Android Store</a></li>
 					<li><a href="https://www.instagram.com/healthego_co/" class="button">Instagram</a></li>
-				</ul>
-				
+				</ul>				
 HealEgo is a decentralized health & fitness ecosystem developed to support those that live, want, need a healthy lifestyle.
 <br>
 <br>
@@ -106,10 +102,8 @@ The ecosystem is a blend between Twitter and Instagram with a specific focus on 
 <br>
 			</div>
 		</div>
- 
 	</section>
  </section>
-
 	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/BlockHead11.png %}" alt="" data-position="top center" />
