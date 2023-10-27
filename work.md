@@ -81,7 +81,7 @@ Zunkz are the only Punks collection available that has an official companion col
 					<li><a href="https://play.google.com/store/apps/details?id=co.healthego.android&pli=1" class="button">Android</a></li>
 					<li><a href="https://www.instagram.com/healthego_co/" class="button">Instagram</a></li>
 				</ul>				
-HealthEgo is a decentralized health & fitness ecosystem developed to support those that live, want, need a healthy lifestyle.  For a healthy lifestyle we believe there are 6 foundations that need attention, strength, mobility, nutrition, movement, mindfulness, and recovery.  
+HealthEgo was to be a decentralized health & fitness ecosystem created to support those that live, want, need a healthy lifestyle.  For a healthy lifestyle we believe there are 6 foundations that need attention, strength, mobility, nutrition, movement, mindfulness, and recovery.  
 <br>
 <br>
 The ecosystem is a blend between Twitter, Instagram, and Facebook with a specific focus on health & fitness.  Our health is important and it deserves it's own sharing plaform where all the valuable health content created won't get lost amongst the massive amounts of entertainment content on these other social platforms.
@@ -103,51 +103,3 @@ The ecosystem is a blend between Twitter, Instagram, and Facebook with a specifi
 		</div>
 	</section>
  </section>
-	<!--<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/BlockHead11.png %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Blockhead #tweekers</h3>
-				</header>
-				<p>Blockhead #tweekers are an Ethereum NFT project that consists of 52 digitally drawn unique 1/1 PFPs.</p>
-				<ul class="actions">
-					<li><a href="https://opensea.io/collection/blockheadtweekers" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/MFersOC142.png %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>mfersOC</h3>
-				</header>
-				<p>mfersOC are an Ethereum on-chain NFT project that consists of 7,777 unique randomly generated mfers.</p>
-				<ul class="actions">
-					<li><a href="https://opensea.io/collection/mfers-oc" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
-<!-- Three
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section> 
-
-</div> -->
