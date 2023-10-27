@@ -63,9 +63,7 @@ Zunkz are the only Punks collection available that has an official companion col
 <br>
 <br>
 			</div>
-		</div>
-  <div class="content">
-			<div class="inner">
+   <div class="inner">
 				<header class="major">
 					<h3>Zunkz</h3>
 				</header>
@@ -103,6 +101,7 @@ Zunkz are the only Punks collection available that has an official companion col
 <br>
 			</div>
 		</div>
+ 
 	</section>
 </section>
 	<!--<section>
