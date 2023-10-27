@@ -51,7 +51,6 @@ Zunkz are the only Punks collection available that has an official companion col
 <br>
 - Led the development, organization, and engagement of the project's online community through various channels, including a Mirror blog, Discord, Twitter, and Instagram.
 <br>
-<br>
 			</div>
 		</div>
 	</section>
@@ -87,7 +86,6 @@ The ecosystem is a blend between Twitter, Instagram, and Facebook with a specifi
 - Cultivated and engaged an online community through strategic management of Discord, Twitter, and Instagram accounts.
 <br>
 - Successfully released iOS and Android apps.
-<br>
 <br>
 			</div>
 		</div>
