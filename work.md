@@ -23,7 +23,8 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/zunkzSkateboard.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/ZunkzSkateboard.png %}" alt="" data-position="center center" />
+			<br>
 			<img src="{% link assets/images/ZunkzSubway.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -69,6 +70,7 @@ Zunkz are the only Punks collection available that has an official companion col
  	<section>
 		<a class="image">
 			<img src="{% link assets/images/HealthEgo1.png %}" alt="" data-position="center center" />
+			<br>
 			<img src="{% link assets/images/HealthEgo2.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
