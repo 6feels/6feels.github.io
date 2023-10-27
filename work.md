@@ -67,7 +67,7 @@ Zunkz are the only Punks collection available that has an official companion col
 	</section>
  	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/HealthEgo.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/HealthEgo.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
