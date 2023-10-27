@@ -17,6 +17,7 @@ nav-menu: true
 		<a class="image">
 			<img src="{% link assets/images/Family.png %}" alt="" data-position="center center" />
 			</a>
+		<br>
   		<ul class="actions">
 					<li><a href="mailto:CVanchieri@Gmail.com" class="button">Email</a></li>
 					<li><a href="https://www.linkedin.com/in/cvanchieri6/" class="button">LinkedIn</a></li>
