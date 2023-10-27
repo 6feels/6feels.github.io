@@ -25,8 +25,6 @@ nav-menu: true
 			<img src="{% link assets/images/Family.png %}" alt="" data-position="center center" />
 			</a>
 		<br>
-		<br>
-		<h2 id="content">Location</h2>
 		<a class="image">
 			<img src="{% link assets/images/Map.png %}" alt="" data-position="center center" />
 		</a>
