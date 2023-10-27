@@ -16,6 +16,8 @@ nav-menu: true
 			<img src="{% link assets/images/ZunkzSubway.png %}" alt="" data-position="center center" />
 			<br>
 			<img src="{% link assets/images/ZpetsSurf.png %}" alt="" data-position="center center" />
+			<br>
+			<img src="{% link assets/images/ZunkzPaper.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
