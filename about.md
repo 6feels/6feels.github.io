@@ -15,7 +15,7 @@ nav-menu: true
 			<h1>Charles Vanchieri</h1>
 		</header>
   		<ul class="actions">
-					<li><a href="mailto:CVanchieri@Gmail.com" class="button">Email</a></li>
+					<a href="mailto:CVanchieri@Gmail.com" class="button">Email</a>
 					<li><a href="https://www.linkedin.com/in/cvanchieri6/" class="button">LinkedIn</a></li>
 					<li><a href="https://twitter.com/CVanchieri6" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/cvanchieri6/" class="button">Instagram</a></li>
