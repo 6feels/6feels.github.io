@@ -20,6 +20,7 @@ nav-menu: true
 					<li><a href="https://twitter.com/CVanchieri6" class="button">Twitter</a></li>
 					<li><a href="https://www.instagram.com/cvanchieri6/" class="button">Instagram</a></li>
 				</ul>
+		<h2 id="content">Location</h2>
 		<a class="image">
 			<img src="{% link assets/images/map.png %}" alt="" data-position="center center" />
 		</a>
