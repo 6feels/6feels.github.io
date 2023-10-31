@@ -33,7 +33,7 @@ nav-menu: true
 					<li><a href="https://www.instagram.com/zunkznfts" class="button">Instagram</a></li>
 				</ul>
 				
-The CryptoZunks were released in August 2021 by Zagabond the founder of Azuki and were minted out @ .05 ETH each within 48hrs. In May 2022 Zagabond handed over the projects contracts, wallets, and keys to the community team so that he could put his focus on Azuki while the CryptoZunks community team would take over the project and focus on the CryptoZunks. After the handover was complete the community and team felt it was important to have a fresh start so the project was rebranded from CryptoZunks to the Zunkz. 
+The CryptoZunks were released in August 2021 by @Zagabond the founder of Azuki and were minted out @ .05 ETH each within 48hrs. In May 2022 Zagabond handed over the projects contracts, wallets, and keys to the community team so that he could put his focus on Azuki while the CryptoZunks community team would take over the project and focus on the CryptoZunks. After the handover was complete the community and team felt it was important to have a fresh start so the project was rebranded from CryptoZunks to the Zunkz. 
 <br>
 <br>
 Zunkz are the 1st continuation project of the original CryptoPunks collection and the 1st collection to be branded by Opensea with the Inspired by Cryptopunks badge. Punks are labelled 1-10,000 while Zunkz are labelled 10,000 - 20,000 with each Zunk being unique and different from any CryptoPunks. All the original traits were used but the alternative method implemented during the generation allowed for completely different combinations of traits resulting in 10,000 unique Zunkz.  
@@ -45,7 +45,7 @@ Zunkz are the only Punks collection available that has an official companion col
 	<header class="major">
 		<h3>Project Leader</h3>
 	</header>
-- Successfully managed the developments and expansion of the digital art NFT collection Zunkz on the Ethereum blockchain with a robust community of approximately 3,500 owners and daily active members across various social media platforms.
+- Successfully manage the developments and expansion of the digital art NFT collection Zunkz on the Ethereum blockchain with a robust community of approximately 3,500 owners and daily active members across various social media platforms.
 <br>
 - Supervise a team of 9 employees, focused on networking, marketing, social engagements, and technical developments to grow the project's ecosystem.
 <br>
