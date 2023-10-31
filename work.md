@@ -89,7 +89,7 @@ The ecosystem is a blend between Twitter, Instagram, and Facebook with a specifi
 <br>
 - Cultivated and engaged an online community through strategic management of Discord, Twitter, and Instagram accounts.
 <br>
-- Successfully released iOS and Android apps.
+- Successfully released the platform in both the iOS and Android app stores.
 <br>
 			</div>
 		</div>
