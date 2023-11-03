@@ -41,4 +41,7 @@ With a strong background in management and customer relations, I am seeking an o
 <br>
 <br>
 <h2 id="content">Resume</h2>
-<script src="https://gist.github.com/6feels/69f6ff42ab7d24ab1790db2f8d466f09.js"></script>
+		<a class="image">
+			<img src="{% link assets/images/CV_Resume.png %}" alt="" data-position="center center" />
+			</a>
+		<script src="https://gist.github.com/6feels/69f6ff42ab7d24ab1790db2f8d466f09.js"></script>
