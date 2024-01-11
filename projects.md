@@ -75,6 +75,27 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/SECapproval.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>SEC Bitcoin ETF Approval #1</h3>
+				</header>
+				<p>
+				This is an Ethereum ERC -1155 NFT of the huge mess up by the SEC causing a massive crypto liquidation. 
+				<br>
+				The collection consists of 500 NFTs that display the deleted X app post by the SEC.
+				</p>
+				<ul class="actions">
+					<li><a href="https://opensea.io/collection/sec-etf-approval-1" class="button">Collection</a></li> 
+					<li><a href="https://app.manifold.xyz/c/SECapproval1" class="button">Mint</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 	
 </div>
